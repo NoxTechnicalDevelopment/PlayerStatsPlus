@@ -1,0 +1,7 @@
+name: PlayerStatsPlus
+version: '${project.version}'
+main: nox.playerstatsplus.playerstats.PlayerStats
+api-version: 1.19
+authors: [Nox]
+description: A plugin for advanced statistics and moderation.
+website: https://github.com/NoxTechnicalDevelopment
